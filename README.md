@@ -2,6 +2,7 @@
 This is a C++ simulator for the standard casino game Baccarat (Punto Banco). The simulator plays a single random game from a freshly shuffled 8-deck shoe (total of 416 cards).
 
 Features
+
 ✅ Implements standard Punto Banco rules, including third-card drawing rules.
 ✅ Simulates a game and prints the results in the format:
 
